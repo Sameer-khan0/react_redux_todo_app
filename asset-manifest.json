@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_redux_todo_app/static/css/main.63314447.css",
+    "main.js": "/react_redux_todo_app/static/js/main.0cbb6e5f.js",
+    "static/js/787.7f320c1d.chunk.js": "/react_redux_todo_app/static/js/787.7f320c1d.chunk.js",
+    "static/media/mypic.jpg": "/react_redux_todo_app/static/media/mypic.7e0bc4dd4dc0c852d273.jpg",
+    "index.html": "/react_redux_todo_app/index.html",
+    "main.63314447.css.map": "/react_redux_todo_app/static/css/main.63314447.css.map",
+    "main.0cbb6e5f.js.map": "/react_redux_todo_app/static/js/main.0cbb6e5f.js.map",
+    "787.7f320c1d.chunk.js.map": "/react_redux_todo_app/static/js/787.7f320c1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63314447.css",
+    "static/js/main.0cbb6e5f.js"
+  ]
+}
